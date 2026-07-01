@@ -26,7 +26,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       </div>
       <div>
         <span class="status-label">Port</span>
-        <strong>8080 -> 80</strong>
+        <strong>9090 -> 80</strong>
       </div>
     </div>
 
