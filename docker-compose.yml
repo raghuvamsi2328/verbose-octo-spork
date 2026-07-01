@@ -1,0 +1,9 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: verbose-octo-spork:latest
+    ports:
+      - "9090:80"
+    restart: unless-stopped
