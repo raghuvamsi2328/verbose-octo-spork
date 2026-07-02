@@ -22,7 +22,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       </div>
       <div>
         <span class="status-label">Runtime</span>
-        <strong>Nginx static server</strong>
+        <strong>Tech talk Screen</strong>
       </div>
       <div>
         <span class="status-label">Port</span>
